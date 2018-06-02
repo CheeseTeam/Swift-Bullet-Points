@@ -19,6 +19,8 @@
 - [Array](https://github.com/CheeseTeam/Swift-Bullet-Points/blob/master/Swift/Array_Extension.md)
 - [Dictionary](https://github.com/CheeseTeam/Swift-Bullet-Points/blob/master/Swift/Dictionary_Extension.md)
 - [Sequence_Extension](https://github.com/CheeseTeam/Swift-Bullet-Points/blob/master/Swift/Sequence_Extension.md)
+- [Date](https://github.com/CheeseTeam/Swift-Bullet-Points/blob/master/Swift/Date_extension.md)
+- 
 
 #### RxSwift
 
